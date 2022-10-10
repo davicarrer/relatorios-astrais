@@ -1,0 +1,9 @@
+LUCAS
+NOME COMPLETO: Lucas Almeida
+IDADE: 21 ANOS
+SIGNO: LIBRA
+ASCENDENTE: GEMEOS
+SIGNO LUNAR: Signo Lunar Não Encontrado - Em Construção
+NASCEU EM ANO BISSEXTO: true
+=====================
+

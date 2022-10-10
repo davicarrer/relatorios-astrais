@@ -1,0 +1,9 @@
+ANA
+NOME COMPLETO: Ana
+IDADE: 30 ANOS
+SIGNO: TOURO
+ASCENDENTE: ARIES
+SIGNO LUNAR: Signo Lunar Não Encontrado - Em Construção
+NASCEU EM ANO BISSEXTO: true
+=====================
+
