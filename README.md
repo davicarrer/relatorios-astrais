@@ -16,4 +16,4 @@ Joao Lucas Cruz Lopes
 POST http://localhost:8080/api/mapa  
 RequestBody MultipartFile file
 ```
-
+### Feature de criar de relatorios astrais em paralelo
